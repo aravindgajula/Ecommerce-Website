@@ -27,3 +27,12 @@ This project focuses on frontend layout, styling, and basic interactivity.
 
 ## 📂 Project Structure
 
+Amazon-Clone/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│ ├── images
+│ └── icons
+└── README.md
